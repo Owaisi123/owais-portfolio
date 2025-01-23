@@ -4,7 +4,7 @@ import { FaGithub } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import { ImLinkedin } from "react-icons/im";
 import Link from "next/link";
-import Typewriter from "typewriter-effect";
+import { Typewriter } from "react-simple-typewriter";
 
 export default function page() {
   return (
@@ -14,11 +14,12 @@ export default function page() {
           Hi, I'm{" "}
           <span className="text-slate-300 font-serif font-semibold hover:text-green-700 cursor-pointer">
             <Typewriter
-              options={{
-                strings: ["Owais"],
-                autoStart: true,
-                loop: true,
-              }}
+              words={["Owais"]}
+              loop={0}
+              cursor
+              cursorStyle="_"
+              typeSpeed={70}
+              deleteSpeed={50}
             />
           </span>
         </h1>
