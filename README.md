@@ -5,9 +5,8 @@ A modern and responsive portfolio built with **Next.js & Tailwind CSS**.
 🔗 **Live Demo:** [owais.dev](https://portfolio-188.vercel.app/)  
 
 ## 📸 Screenshots  
-[portfolio](https://github.com/user-attachments/assets/91696958-52a2-448c-9785-ed33d2a68119)
-
-✅ Fast & SEO optimized  
+✅ Fast & ![portfolio](https://github.com/user-attachments/assets/39c8202f-647f-4b72-ab8e-c30365562571)
+SEO optimized  
 ✅ Dark mode support  
 ✅ Projects showcase  
 
